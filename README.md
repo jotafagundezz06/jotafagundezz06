@@ -59,7 +59,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,py,cpp,c,java,nodejs,figma,notion,vscode,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,py,cpp,c,java,nodejs,figma,notion,vscode,postgres,dart)](https://skillicons.dev)
 
 <div>
 
